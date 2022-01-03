@@ -1,7 +1,12 @@
 _AurigaeTech_
+
+
 if any queries contact us on 
+***
 [gmail](techaurigae@gmail.com)
+***
 [website](https://www.aurigaetech.com)
+***
 [instagram](https://instagram.com/aurigaetech)
 
 # gesture-controlled-car
@@ -25,6 +30,8 @@ In this project, we have designed a simple Hand Gesture Controlled Robot using A
 ### receiver circuit
 
 ![reciever ciruit](https://github.com/ITS-AURIGAE/gesture-controlled-car/blob/main/ARDUINO%20GESTURE%20ROBOT%20RECEIVER%20SCHEMATIC.jpg?raw=true)
+
+***
 
 
 ### transmitter circuit
