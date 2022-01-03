@@ -2,8 +2,6 @@ _created by AurigaeTech_
 
 if any queries contact us on 
 ***
-[gmail](https://gmail.com/techaurigae)
-
 [website](https://www.aurigaetech.com)
 
 [instagram](https://instagram.com/aurigaetech)
